@@ -49,8 +49,7 @@ const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
     AppRoutingModule,
     HttpClientModule,
     PerfectScrollbarModule,
-    ScrollToModule.forRoot(),
-    UICarouselModule
+    ScrollToModule.forRoot()
   ],
   providers: [
     {
